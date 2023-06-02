@@ -16,5 +16,5 @@ jobs:
             pr_title: Branch Sync - Weekly Updatedd from Release to Master
             destination_branch: main
             source_branch: release
-            github_token: ${{ secrets.GITHUB_TOKEN}}
+            github_token: ${{ secrets.GITHUB_TOKEN }}
             pr_reviewer: devopscloudtrainer
